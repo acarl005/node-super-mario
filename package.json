@@ -1,5 +1,5 @@
 {
-  "name": "node-super-mario",
+  "name": "super-mario",
   "version": "1.0.0",
   "description": "A terminal program that prints 8-bit mario to the screen in vibrant xterm-256-color",
   "main": "index.js",
