@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+'use strict'
+
 const colorCodes = {
   o: 95,   // orange/brown
   r: 9,    // red
