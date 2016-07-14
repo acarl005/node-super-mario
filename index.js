@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const colorCodes = {
   o: 95,   // orange/brown
   r: 9,    // red

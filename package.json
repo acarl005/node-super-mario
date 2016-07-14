@@ -4,7 +4,7 @@
   "description": "A terminal program that prints 8-bit mario to the screen in vibrant xterm-256-color",
   "main": "index.js",
   "bin": {
-    "mario": "node index.js"
+    "mario": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
